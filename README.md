@@ -16,7 +16,7 @@
 
 ## About
 
-There is a simple Multicast Chat program
+There is a simple Multicast Chat application
 
 ## Techs
 
